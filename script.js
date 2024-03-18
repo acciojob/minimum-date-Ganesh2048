@@ -1,5 +1,8 @@
 function minDate(dates) {
-  //write you code here
+  //write you code here ugfe
+	dates.sort();
+	return dates[0];
+	
 }
 
 // Do not change the code
